@@ -1,5 +1,5 @@
 import React, {PureComponent} from 'react'
-import Aux from '../../../hoc/Auxillary/Aux'
+import Aux from '../../../hoc/Auxillary/Auxillary'
 import Button from '../../UI/Button/Button'
 
 class OrderSummary extends PureComponent { 
