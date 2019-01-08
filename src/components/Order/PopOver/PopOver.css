@@ -1,0 +1,13 @@
+.PopOver {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    box-shadow: 0 2px 3px #ccc;
+    height: 50px;
+    background-color: white;
+    padding: 10px 20px;
+    z-index: 1000;
+    transition: 2s all;
+    /* color:black; */
+}
+
